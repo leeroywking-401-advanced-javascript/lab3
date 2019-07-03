@@ -11,10 +11,19 @@
     "test": "jest --coverage --verbose",
     "test-watch": "jest --watchAll --coverage --verbose"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Lee-Roy King",
+  "license": "MIT",
   "dependencies": {
     "eslint": "^5.6.1",
-    "jest": "^23.6.0"
-  }
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeroywking-401-advanced-javascript/lab3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leeroywking-401-advanced-javascript/lab3/issues"
+  },
+  "homepage": "https://github.com/leeroywking-401-advanced-javascript/lab3#readme"
 }

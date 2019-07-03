@@ -7,6 +7,6 @@ exports.readFile = (file, cb) => {
     cb('Invalid File');
   }
   else {
-    cb(undefined, new Buffer('File Contents'));
+    cb(null, new Buffer('File Contents'));
   }
 };
